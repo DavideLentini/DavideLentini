@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 <!--
 **DavideLentini/DavideLentini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
