@@ -36,5 +36,3 @@ I am a software developer from     <img src="https://emojipedia-us.s3.dualstack.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DavideLentini&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
