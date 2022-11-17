@@ -33,3 +33,5 @@ I am a software developer from     <img src="https://emojipedia-us.s3.dualstack.
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" title=".net" **alt=".net" width="40" height="40"/>
 </div>
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DavideLentini)](https://git.io/streak-stats)
