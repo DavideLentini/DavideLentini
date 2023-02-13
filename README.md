@@ -7,7 +7,7 @@
 ---
 ### 👨‍🔬: About Me :
 
-I am a software developer from     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-italy_1f1ee-1f1f9.png" width="30"/>
+I am a software developer from     <img src="https://em-content.zobj.net/thumbs/120/joypixels/340/flag-italy_1f1ee-1f1f9.png" width="30"/>
 
 - 🧑‍⚕️: I currently work as software developer at an Italian startup : <a href="http://luminousbe.es/">Luminous Bees</a> , which produces light drones for interactive shows
 
